@@ -1,108 +1,55 @@
-name: John Doe
+name: Joseph Smith
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: josephosmith@live.ca
+  github: joe7057
+  linkedin:
+  phone: (204) 226-7075
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Computer Sciences (Honours)
+    time: 2018-2022
+    university: University of Manitoba
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+ Hi, my name is Joseph, and I am currently pursuing a degree in Computer Sciences at the University of Manitoba. I like working with computers and I love solving problems. While pursuing my degree, I have gained invaluable teamwork and service skills working part-time as a clerk at my local Safeway grocer.  
+  
+  
+  I especially like working with computer hardware, and I am also skilled in:
+  	- scripting (shell, bash, python)
+  	- programming (C/C++, Java)  
+  	
+  	
+  I like being flexible, and am ready to learn whatever is needed to get the job done.   
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Produce Clerk
+    time: 2018-Present
+    company: Safeway
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      As a produce clerk I am responsible for keeping the shelves stocked throughout the day, as well as for helping customers when they request it, whether they have a question or want help finding an item. I am also often the senior employee in my department one day a week, when I have to offer training and guidance to junior employees, respond to customer complaints about my department, and make decisions about product presentation and ordering.  
+          
+          
+          Working at Safeway has helped me to develop my teamwork skills, in working together with others on a shared task, dividing up tasks fairly according to skill sets, and in conflict resolution between my coworkers. I have also gained valuable skills in customer service, attention to detail and working under pressure.   
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
 projects:
-  - title: Cool Project 
+  - title: Immaculate Heart of Mary School Network Installation
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Over the summer of 2021 I worked with a friend of mine, who is the IT Coordinator at Immaculate Heart of Mary School, to completely overhaul their internal IT systems, including new network equipment, computers and procedures.   
+          
+          
+          My main work on this project involved implementing a version of roaming profiles on their new computers, to ensure that students and teachers could login to any computer to do their work, and all of their files were backed up on the network. Since these were macs, I had to write a number of bash scripts to automate the process of copying files from the server on login, and then synchronizing changes on logout, while ensuring the proper behaviour for different types of accounts.   
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
